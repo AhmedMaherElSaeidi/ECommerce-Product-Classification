@@ -29,11 +29,13 @@ To tackle this task, I followed a step-by-step approach outlined below:
 
 7. **Testing:** Finally, I tested the trained model on a separate test set to assess its overall accuracy and effectiveness in classifying product images.
 
-## Kaggle Dataset
+## Kaggle
+
+### Kaggle Dataset
 
 The dataset used for training the model is available on Kaggle. You can download it from the following link: [Kaggle Dataset](https://www.kaggle.com/datasets/ahmedmaherelsaeidy/slash-dataset).
 
-## Kaggle Notebook
+### Kaggle Notebook
 
 I have also created a Kaggle notebook for this project. You can access it [here](https://www.kaggle.com/code/ahmedmaherelsaeidy/slash-products-classification).
 
