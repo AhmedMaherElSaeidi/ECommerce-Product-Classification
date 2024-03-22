@@ -6,11 +6,8 @@ Developing a deep learning model to classify product images within the Slash app
 
 - [Introduction](#introduction)
 - [Approach](#approach) 
-- [Kaggle Dataset](#kaggledataset)
-- [Kaggle Notebook](#kagglenotebook)
+- [Kaggle](#kaggle)
 - [Demo](#demo)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
