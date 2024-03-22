@@ -21,7 +21,7 @@ To tackle this task, I followed a step-by-step approach outlined below:
 
 2. **Data Preparation:** I preprocessed the images by normalization, and splitting the data into training and validation sets `80:20`. And for the labels, I use one hot encoding as a common practice for my case.
 
-3. **Model Building:** As we have a small dataset I used transfer learning to enhance my model performance and `DenseNet121` was the one that improved the accuracy rather than `Inception-ResNet-v2`. I used `softmax` as an activation function for the output layer as the model is considered to classify multiple labels instead of a binary label. I used `adam` as an optimizer with a learning rate of `0.0001` as it improved accuracy and reduced overfit (I used dropout layers too in the model architecture to handle the overfitting issue.).
+3. **Model Building:** As we have a small dataset I used transfer learning to enhance my model performance and `DenseNet121` was the one that improved the accuracy rather than `Inception-ResNet-v2`. I used `softmax` as an activation function for the output layer as the model is considered to classify multiple labels instead of a binary label. I used `adam` as an optimizer with a learning rate of `0.0001` as it improved accuracy and reduced overfit ( I used dropout layers too in the model architecture to handle the overfitting issue. ).
 
 4. **Training:** I trained the CNN model on the prepared dataset. I used a callback function to save the model state at its best weights tracking the least `val_loss` value which was `0.1343`
 
@@ -41,5 +41,6 @@ I have also created a Kaggle notebook for this project. You can access it [here]
 
 ## Demo
 
-[Here's a short video demonstrating the functionality of the Product Image Classifier](./code's_functionality.mkv)
+[![Here's a short video demonstrating the functionality of the Product Image Classifier](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=M5c6Qx5DGvo)
+
 
