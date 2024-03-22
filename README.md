@@ -17,7 +17,7 @@ Thank you for considering me for the AI Internship at Slash! This repository con
 
 To tackle this task, I followed a step-by-step approach outlined below:
 
-1. **Dataset Download:** I obtained the product images by screenshotting them through the Slash application. I used OpenCV to clean the images and unify their shapes, I made two shapes 1080*1080 and 480*480, and because of limited resources, I used the 480*480 images to train the model. 
+1. **Dataset Download:** I obtained the product images by screenshotting them through the Slash application. I used OpenCV to clean the images and unify their shapes, I made two shapes `(1080, 1080, 3)` and `(480, 480, 3)`, and because of limited resources, I used the `(480, 480, 3)` images to train the model. 
 
 2. **Data Preparation:** I preprocessed the images by normalization, and splitting the data into training and validation sets `80:20`. And for the labels, I use one hot encoding as a common practice for my case.
 
