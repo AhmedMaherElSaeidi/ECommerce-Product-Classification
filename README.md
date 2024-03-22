@@ -41,6 +41,7 @@ I have also created a Kaggle notebook for this project. You can access it [here]
 
 ## Demo
 
-[![Here's a short video demonstrating the functionality of the Product Image Classifier](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=M5c6Qx5DGvo)
+Here's a short video demonstrating the functionality of the Product Image Classifier
+[![Alt text](https://e7.pngegg.com/pngimages/244/695/png-clipart-play-icon-video-player-information-play-icon-miscellaneous-angle-thumbnail.png)](https://www.youtube.com/watch?v=M5c6Qx5DGvo)
 
 
