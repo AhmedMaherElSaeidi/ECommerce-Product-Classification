@@ -41,6 +41,6 @@ I have also created a Kaggle notebook for this project. You can access it [here]
 
 ## Demo
 
-Here's a short video demonstrating the functionality of the Product Image Classifier: [Demo](https://www.youtube.com/watch?v=M5c6Qx5DGvo)
+Here's a short video demonstrating the functionality of the Product Image Classifier: [Demo](https://youtu.be/j_GbsQn0BZ0)
 
 
